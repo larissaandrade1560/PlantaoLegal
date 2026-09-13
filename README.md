@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Plantão Legal** é um aplicativo acadêmico desenvolvido para monitorar plantões, jornadas de trabalho e horas extras. A proposta é ajudar profissionais que atuam em escalas de trabalho a acompanharem sua carga horária e identificarem situações de excesso de trabalho.
+O **Plantão Legal** é um aplicativo acadêmico desenvolvido para monitorar plantões, jornadas de trabalho e horas extras. A proposta é ajudar profissionais que atuam em escalas de trabalho a acompanhar sua carga horária de forma simples, privada e segura.
 
 O projeto é desenvolvido para a disciplina **Programação para Dispositivos Móveis**.
 
