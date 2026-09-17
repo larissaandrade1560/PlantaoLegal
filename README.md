@@ -1,101 +1,60 @@
 # Plantão Legal
 
-## Descrição
+## Visão geral
 
-O **Plantão Legal** é um aplicativo acadêmico desenvolvido para monitorar plantões, jornadas de trabalho e horas extras. A proposta é ajudar profissionais que atuam em escalas de trabalho a acompanhar sua carga horária de forma simples, privada e segura.
+O Plantão Legal é um aplicativo acadêmico voltado para o controle de plantões, jornada de trabalho e horas extras. A proposta principal é ajudar profissionais com turnos irregulares a registrar sua carga horária de forma simples, privada e segura.
 
-O projeto é desenvolvido para a disciplina **Programação para Dispositivos Móveis**.
+## Problema atendido
 
-## Objetivo
-
-Oferecer uma ferramenta simples para registrar e acompanhar plantões e horas extras, contribuindo para uma rotina de trabalho mais organizada e segura.
+Profissionais de saúde e áreas operacionais costumam trabalhar em escalas alternadas, com plantões consecutivos e pouca disponibilidade para registrar horários com precisão. Isso dificulta o acompanhamento de horas trabalhadas, horas extras e descanso, aumentando o risco de fadiga e sobrecarga.
 
 ## Público-alvo
 
-O aplicativo é destinado a profissionais que trabalham em regime de plantão ou com jornadas variáveis, incluindo:
+- médicos;
+- enfermeiros;
+- técnicos de enfermagem;
+- seguranças;
+- motoristas de aplicativo;
+- bombeiros.
 
-- Médicos
-- Enfermeiros
-- Técnicos de enfermagem
-- Seguranças
-- Motoristas de aplicativo
-- Bombeiros
+## Objetivo do projeto
 
-## Missão
+O aplicativo deve permitir:
 
-Contribuir para a prevenção do burnout e da fadiga extrema por meio do acompanhamento da jornada de trabalho, permitindo que o usuário tenha maior consciência sobre suas horas trabalhadas e seus períodos de descanso.
+- registrar jornadas de trabalho rapidamente;
+- calcular horas extras e carga horária;
+- consultar histórico de plantões;
+- visualizar um indicador de fadiga;
+- gerar relatórios locais em PDF;
+- manter funcionamento offline com privacidade.
 
-## Informações acadêmicas
+## Documentação entregue
 
-- **Disciplina:** Programação para Dispositivos Móveis
-- **Turma:** [coloque sua turma]
-- **Tipo de projeto:** Projeto acadêmico
+- [Requisitos e funcionalidades](docs/requisitos.md)
+- [Apresentação em PDF de requisitos](docs/apresentacaoRequisitos.pdf)
 
-## Integrantes
+## Participação individual
 
-| Nome | Responsabilidades |
+| Integrante | Contribuição principal |
 | --- | --- |
-| Larissa Andrade | Levantamento de requisitos e documentação |
-| Matheus Costa | Desenvolvimento das telas do aplicativo |
-| Gabriel Almeida | Implementação do cadastro e acompanhamento de plantões |
-| Genilson Dias | Implementação do cálculo e registro de horas extras |
-| Hunald Barreto | Testes, integração e revisão do projeto |
-
-### Responsabilidades dos integrantes
-
-As responsabilidades podem incluir as seguintes atividades:
-
-- Levantamento de requisitos e definição das funcionalidades
-- Planejamento da experiência e da interface do usuário
-- Desenvolvimento das telas do aplicativo
-- Implementação do cadastro e acompanhamento de plantões
-- Implementação do cálculo e do registro de horas extras
-- Modelagem e integração com o banco de dados
-- Testes, correções e documentação do projeto
-
-> As responsabilidades podem ser ajustadas conforme a participação efetiva de cada integrante no projeto.
+| Larissa Andrade | Definição do problema, requisitos e documentação final |
+| Matheus Costa | Organização da funcionalidade principal e justificativas |
+| Gabriel Almeida | Definição dos requisitos funcionais e do CRUD |
+| Genilson Dias | Requisitos não funcionais e visão de privacidade |
+| Hunald Barreto | Priorização, revisão final e alinhamento com a apresentação |
 
 ## Estrutura do repositório
-
-A estrutura prevista para o projeto é:
 
 ```text
 PlantaoLegal/
 ├── README.md
+├── CHANGELOG.md
 ├── docs/
 │   ├── requisitos.md
-│   └── wireframes/
-├── src/
-│   ├── components/
-│   ├── screens/
-│   ├── services/
-│   ├── models/
-│   └── utils/
-├── tests/
-├── assets/
-└── package.json
+│   └── apresentacaoRequisitos.pdf
+└── .git/
 ```
 
-A estrutura pode ser ajustada conforme a tecnologia escolhida e a evolução do aplicativo.
+## Observação
 
-## Funcionalidades previstas
-
-- Cadastro de plantões
-- Registro de início e término da jornada
-- Controle de horas extras
-- Consulta do histórico de plantões
-- Visualização do total de horas trabalhadas
-- Alertas ou indicadores de carga horária elevada
-- Organização por data, profissão ou local de trabalho
-
-## Status do projeto
-
-Em desenvolvimento.
-
-## Documentação da Atividade 02
-
-- [Pesquisa sobre jornada, fadiga e burnout](docs/pesquisa.md)
-- [Benchmark de soluções existentes](docs/benchmark.md)
-- [Personas do projeto](docs/personas.md)
-- [Roteiro da apresentação](docs/apresentacao.md)
-- [Apresentação em PDF](docs/apresentacao.pdf)
+Este repositório foi ajustado para atender ao checklist da professora, incluindo requisitos mínimos, CRUD, priorização e documentação centralizada no arquivo de requisitos.

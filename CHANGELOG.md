@@ -1,25 +1,41 @@
 # Changelog
 
-Todas as alterações relevantes do projeto **Plantão Legal** serão registradas neste arquivo.
+## [0.4.0] - Atividade 03: requisitos, CRUD e priorização
 
-O Plantão Legal é um aplicativo acadêmico para controle de plantões e horas extras. Seu objetivo é auxiliar trabalhadores em regime de plantão no monitoramento da carga horária, contribuindo para a prevenção do burnout e da fadiga extrema.
+### Adicionado
+
+- Documento principal de requisitos em `docs/requisitos.md`.
+- Estrutura com 8 funcionalidades principais, 12 requisitos funcionais e 6 não funcionais.
+- Seção de CRUD com criação, consulta, atualização e exclusão das informações relevantes.
+- Priorização das funcionalidades em essenciais, importantes e secundárias.
+- Arquivo de apresentação em PDF em `docs/apresentacaoRequisitos.pdf`.
+- Atualização do README com responsabilidades individuais e documentação entregue.
+
+### Ajustado
+
+- Alinhamento do conteúdo ao problema, à pesquisa e às personas.
+- Organização do documento para atender ao checklist da professora.
+- Revisão final do escopo para evitar itens fora do solicitado.
+
+## [0.3.0] - Reorganização do escopo
+
+### Ajustado
+
+- Mantém foco na Atividade 03.
+- Eliminação de materiais fora do escopo solicitado.
+- Organização do repositório para a entrega final da disciplina.
+
+## [0.2.0] - Pesquisa e estudo de caso
+
+### Adicionado
+
+- Pesquisa sobre jornadas extensas, fadiga e burnout.
+- Benchmark e personas.
+- Documentação de contexto do projeto.
 
 ## [0.1.0] - Versão inicial
 
 ### Adicionado
 
-- Criação do repositório do projeto Plantão Legal.
-- Criação do arquivo `README.md` com a descrição do projeto, seus objetivos, público-alvo, integrantes e estrutura inicial do repositório.
-- Criação do arquivo `docs/estudo-de-caso.md`.
-- Início da documentação do estudo de caso do aplicativo.
-- Definição da estrutura inicial do projeto.
-
-## [0.2.0] - Pesquisa, benchmark e personas
-
-### Adicionado
-
-- Pesquisa documentada sobre jornadas extensas, fadiga, burnout e privacidade.
-- Benchmark de Google Calendar, Toggl Track e WorkingHours.
-- Duas personas, com definição da persona prioritária.
-- Roteiro da apresentação da Atividade 02.
-- Links da documentação acadêmica no README.
+- Criação do repositório.
+- Estrutura inicial do projeto e documentação inicial.
