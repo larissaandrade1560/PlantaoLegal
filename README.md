@@ -35,13 +35,11 @@ O aplicativo deve permitir:
 
 ## Participação individual
 
-| Integrante | Contribuição principal |
-| --- | --- |
-| Larissa Andrade | Definição do problema, requisitos e documentação final |
-| Matheus Costa | Organização da funcionalidade principal e justificativas |
-| Gabriel Almeida | Definição dos requisitos funcionais e do CRUD |
-| Genilson Dias | Requisitos não funcionais e visão de privacidade |
-| Hunald Barreto | Priorização, revisão final e alinhamento com a apresentação |
+- Larissa Andrade — Liderança no projeto, definição do problema, requisitos, documentação final, revisão do conteúdo e consolidação da entrega
+- Matheus Costa — Revisão de consistência e apoio na organização da funcionalidade principal
+- Gabriel Almeida — Apoio na estrutura dos requisitos funcionais e do CRUD
+- Genilson Dias — Apoio em requisitos não funcionais e privacidade
+- Hunald Barreto — Revisão final e alinhamento com o checklist da apresentação
 
 ## Estrutura do repositório
 
