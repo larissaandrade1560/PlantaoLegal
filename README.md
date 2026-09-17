@@ -37,7 +37,7 @@ O aplicativo deve permitir:
 
 - Larissa Andrade — Liderança no projeto, definição do problema, requisitos, documentação final, revisão do conteúdo e consolidação da entrega
 - Matheus Costa — Revisão de consistência e apoio na organização da funcionalidade principal
-- Gabriel Almeida — Apoio na estrutura dos requisitos funcionais e do CRUD
+- Gabriel Ramalho — Apoio na estrutura dos requisitos funcionais e do CRUD
 - Genilson Dias — Apoio em requisitos não funcionais e privacidade
 - Hunald Barreto — Revisão final e alinhamento com o checklist da apresentação
 
