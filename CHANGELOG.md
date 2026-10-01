@@ -1,10 +1,7 @@
 # Changelog
 ## [0.5.0] - Atividade 04: prototipação
 
-### Adicionado 
-- Protótipo de baixa fidelidade em `docs/prototipoBaixaFidelidade.pdf`.
-- Protótipo de alta fidelidade em `docs/prototipoAltaFidelidade.pdf`.
-- Documento de justificativas em `docs/justificativas.md`.
+### Adicionado
 - Representação das cinco telas principais do aplicativo:
  - Resumo;
  - Novo Plantão;
