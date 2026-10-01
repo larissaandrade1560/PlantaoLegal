@@ -54,7 +54,7 @@ PlantaoLegal/
 ```
 
 ## figma link
-https://www.figma.com/design/jw1KevO20bkEZxEnXXKXue/Untitled?node-id=0-1&t=LxBGjUda42ptvIkt-1
+https://www.figma.com/design/eWMV2kegSIzYKbp38WpLS6/Prot%25C3%25B3tipo-2?node-id=0-1&p=f&t=EgHy22j4THG4Vvu1-0
 
 ```
 
