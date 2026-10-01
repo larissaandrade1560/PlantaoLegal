@@ -1,4 +1,59 @@
 # Changelog
+## [0.5.0] - Atividade 04: prototipação
+
+### Adicionado 
+- Protótipo de baixa fidelidade em `docs/prototipoBaixaFidelidade.pdf`.
+- Protótipo de alta fidelidade em `docs/prototipoAltaFidelidade.pdf`.
+- Documento de justificativas em `docs/justificativas.md`.
+- Representação das cinco telas principais do aplicativo:
+ - Resumo;
+ - Novo Plantão;
+ - Histórico Mensal;
+ - Relatório;
+ - Exportação concluída.
+- Navegação inferior com acesso às áreas Resumo, Plantão, Mensal e Exportar.
+- Fluxo principal de cadastro, consulta e exportação de plantões.
+- Identidade visual em modo escuro.
+- Paleta de cores para ações, alertas, confirmações e informações secundárias.
+- Tipografia e hierarquia visual.
+- Cards de resumo da jornada.
+- Indicador visual de carga semanal.
+- Calendário de plantões.
+- Formulário para cadastro de plantão.
+- Tela de consolidação dos dados mensais.
+- Estado visual de relatório gerado e exportado.
+- Link público do protótipo no Figma.
+- Visão geral da arquitetura do aplicativo.
+- Seção de evolução entre baixa e alta fidelidade no README.
+
+### Ajustado 
+
+- README atualizado para a Atividade 04.
+- Organização das funcionalidades conforme as telas do protótipo.
+- Descrição do fluxo principal do aplicativo.
+- Descrição das decisões de UI/UX.
+- Estrutura do repositório atualizada.
+- Responsabilidades individuais atualizadas.
+- Melhor alinhamento entre protótipos, requisitos, personas e estudo de caso.
+- Organização visual das informações.
+- Padronização dos componentes e da navegação.
+- Separação entre o protótipo estrutural e a proposta visual final.
+- Revisão dos textos exibidos nas telas.
+- Inclusão de observação sobre o caráter informativo do indicador de carga e fadiga.
+
+### Documentado 
+
+- Justificativa da paleta de cores.
+- Justificativa da tipografia.
+- Organização das informações.
+- Estrutura de navegação.
+- Componentes de interface.
+- Decisões de acessibilidade.
+- Decisões relacionadas ao contexto de uso.
+- Arquitetura proposta para o sistema.
+- Processamento e armazenamento local dos dados.
+
+---
 
 ## [0.4.0] - Atividade 03: requisitos, CRUD e priorização
 
