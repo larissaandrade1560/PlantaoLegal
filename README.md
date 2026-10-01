@@ -53,6 +53,11 @@ PlantaoLegal/
 └── .git/
 ```
 
+## figma link
+https://www.figma.com/design/jw1KevO20bkEZxEnXXKXue/Untitled?node-id=0-1&t=LxBGjUda42ptvIkt-1
+
+```
+
 ## Observação
 
 Este repositório foi ajustado para atender ao checklist da professora, incluindo requisitos mínimos, CRUD, priorização e documentação centralizada no arquivo de requisitos.
