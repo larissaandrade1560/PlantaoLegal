@@ -97,12 +97,21 @@ Tela Inicial
 
 ```text
 PlantaoLegal/
+│
 ├── README.md
 ├── CHANGELOG.md
-├── docs/
-│   ├── requisitos.md
-│   └── apresentacaoRequisitos.pdf
-└── .git/
+│
+└── docs/
+    ├── Apresentação-final.pdf
+    ├── Prototipo-de-alta-fidelidade.pdf
+    ├── Prototipo-de-baixa-fidelidade.jpeg
+    ├── apresentacao.pdf
+    ├── apresentacaoRequisitos.pdf
+    ├── benchmark.md
+    ├── estudo-de-caso.md
+    ├── personas.md
+    ├── pesquisa.md
+    └── requisitos.md
 ```
 
 ## figma link
