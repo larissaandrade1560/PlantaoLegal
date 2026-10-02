@@ -28,18 +28,70 @@ O aplicativo deve permitir:
 - gerar relatórios locais em PDF;
 - manter funcionamento offline com privacidade.
 
-## Documentação entregue
+## Principais funcionalidades
 
-- [Requisitos e funcionalidades](docs/requisitos.md)
-- [Apresentação em PDF de requisitos](docs/apresentacaoRequisitos.pdf)
+O protótipo contempla as seguintes funcionalidades:
+
+- cadastro de plantões;
+- registro de data e horários;
+- cálculo da duração do plantão;
+- acompanhamento de horas extras;
+- consulta ao histórico;
+- calendário de plantões;
+- indicador de carga horária/fadiga;
+- geração de relatórios;
+- funcionamento offline.
+
+---
+
+## Protótipo
+
+O projeto foi desenvolvido em duas etapas de prototipação:
+
+### Baixa fidelidade
+
+A baixa fidelidade foi utilizada para explorar a estrutura das telas, organização das informações e fluxo de navegação antes da definição visual final.
+
+Arquivo:
+
+`docs/prototipoBaixaFidelidade.pdf`
+
+### Alta fidelidade
+
+A alta fidelidade representa a proposta final da interface, incluindo identidade visual, cores, tipografia, componentes, informações, navegação e interações.
+
+Arquivo:
+
+`docs/prototipoAltaFidelidade.pdf`
+
+---
+
+## Fluxo principal
+
+O fluxo principal do aplicativo contempla:
+
+```text
+Tela Inicial
+     │
+     ├── Novo Plantão
+     │      ├── Data
+     │      ├── Horário de início
+     │      ├── Horário de término
+     │      └── Salvar
+     │
+     ├── Histórico
+     │      └── Calendário / Plantões
+     │
+     └── Relatórios
+            └── Gerar relatório
 
 ## Participação individual
 
-- Larissa Andrade — Liderança no projeto, definição do problema, requisitos, documentação final, revisão do conteúdo e consolidação da entrega
-- Matheus Costa — Revisão de consistência e apoio na organização da funcionalidade principal
+- Larissa Andrade — Liderança no projeto, definição do problema, requisitos, documentação, slides e prototipação.
+- Matheus Costa — Apoio na definição e revisão das funcionalidades e suporte na prototipação, revisão da documentação.
 - Gabriel Ramalho — Apoio na estrutura dos requisitos funcionais e do CRUD
-- Genilson Dias — Apoio em requisitos não funcionais e privacidade
-- Hunald Barreto — Revisão final e alinhamento com o checklist da apresentação
+- Genilson Dias — Apoio em requisitos não funcionais, privacidade, apoio nos requisitos referentes ao Github e apresentação do projeto.
+- Hunald Barreto — Revisão final
 
 ## Estrutura do repositório
 
